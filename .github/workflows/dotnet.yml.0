@@ -18,6 +18,6 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: v3.5
-    - name: Build KSPChromaControl
+        dotnet-version: 3.1
+    - name: Build CSITools
       run: dotnet build  ./source/CSITools.csproj
