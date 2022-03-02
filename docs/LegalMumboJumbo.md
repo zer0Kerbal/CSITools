@@ -19,7 +19,7 @@ updated: 01 Feb 2022
 
 [Home](/index.md)
 
-* ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-01.png)
+* ![LegalMumboJumbo](LegalMumboJumbo/FORUM-01.png)
 <!-- * ![LegalMumboJumbo](/LegalMumboJumbo/CC-BY-ND-3.0.md) -->
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
